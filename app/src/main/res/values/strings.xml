@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AgendaJsonApp</string>
+
+    <string name="buttonConsultaContactos_text">Consulta de contactos</string>
+
+    <string name="textViewId_texto">ID</string>
+    <string name="textViewName_text">Name</string>
+    <string name="textViewEmail_text">Email</string>
+    <string name="textViewAddress_text">Address</string>
+    <string name="textViewGender_text">Gender</string>
+    <string name="textViewPhone_text">Phone</string>
+</resources>
